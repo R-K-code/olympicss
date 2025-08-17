@@ -1,3 +1,13 @@
 wikipedia
 pycountry
-
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+pycountry
+beautifulsoup4
+wikipedia
+requests
